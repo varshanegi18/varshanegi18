@@ -9,7 +9,6 @@
 - 🧩 Exploring **vulnerability assessment**, **penetration testing**, and **malware analysis**.  
 - 🔭 Currently building **automation tools for incident response**.  
 - 🧑‍🏫 Lifelong learner — pursuing mastery in **reverse engineering** and **OSINT**.  
-- ⚡ Motto: *“Security through clarity — not obscurity.”*
 
 ---
 
@@ -22,8 +21,6 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
@@ -34,17 +31,15 @@
   <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,bash,git,docker" /><br/>
   <img src="https://img.shields.io/badge/IBM%20Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ### 📊 GitHub Analytics
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varshanegi18&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varshanegi18&theme=radical" />
- <p align="right">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshanegi18&layout=compact&theme=radical" />
-  <img width="58%" src="https://github-profile-trophy.vercel.app/?username=varshanegi18&theme=darkhub&margin-w=15&margin-h=15" />
+  <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=varshanegi18&theme=radical" />
+</p>
+<p>
+  <img width="25%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshanegi18&layout=compact&theme=radical" />
 </p>
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varshanegi18&theme=react-dark)
@@ -52,20 +47,10 @@
 ---
 
 **🧩 Key Domains:**
-- Cybersecurity → OSINT • TCP/IP • Vulnerability Assessment • Network Defense  
-- AI/ML → Chatbots • NLP • Model Training • Data-driven Systems  
-- IoT → Smart Devices • Industrial IoT • Secure Connectivity  
 
 ---
 
 ## 🏆 Certifications & Achievements
-
-- 🧩 **Ethical Hacking**, NPTEL – *66%*  
-- 🌐 **Introduction to IoT**, NPTEL – *84%*  
-- 🏭 **Industry 4.0 & Industrial IoT**, NPTEL – *81%* *(Silver Elite Badge)*  
-- 💻 **C Language**, IIT Bombay Spoken Tutorial  
-- 🎨 **CSS**, IIT Bombay Spoken Tutorial  
-- 🧠 Active member, **PARAM Technical Society**, mentoring peers in tech development
 
 ---
 
