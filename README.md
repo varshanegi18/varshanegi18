@@ -1,6 +1,6 @@
 
-<h1 align="center">👾 Hey there, I'm [Your Name]</h1>
-<h3 align="center">🛡️ Cybersecurity Researcher | Threat Hunter | Open-Source Advocate</h3>
+<h1 align="center">👾 Hey there, I'm Varsha Negi</h1>
+<h3 align="center">🛡️ Cybersecurity Researcher | Threat Hunter | Open-Source</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 🧠 Passionate about **ethical hacking, network defense, and digital forensics**.  
 - 🧩 Exploring **vulnerability assessment**, **penetration testing**, and **malware analysis**.  
 - 🔭 Currently building **automation tools for incident response**.  
-- 🧑‍🏫 Lifelong learner — pursuing mastery in **reverse engineering** and **cloud security**.  
+- 🧑‍🏫 Lifelong learner — pursuing mastery in **reverse engineering** and **OSINT**.  
 - ⚡ Motto: *“Security through clarity — not obscurity.”*
 
 ---
@@ -42,9 +42,7 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varshanegi18&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varshanegi18&theme=radical" />
-</p>
-
-<p align="center">
+ <p align="right">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshanegi18&layout=compact&theme=radical" />
   <img width="58%" src="https://github-profile-trophy.vercel.app/?username=varshanegi18&theme=darkhub&margin-w=15&margin-h=15" />
 </p>
