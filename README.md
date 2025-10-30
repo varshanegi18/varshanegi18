@@ -36,7 +36,7 @@
 ### 📊 GitHub Analytics
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varshanegi18&show_icons=true&theme=radical" />
-  <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=varshanegi18&theme=radical" />
+  <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=varshanegi18&theme=radical" />
 </p>
 <p>
   <img width="25%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshanegi18&layout=compact&theme=radical" />
