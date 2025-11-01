@@ -11,6 +11,7 @@
 - 🧑‍🏫 Lifelong learner — pursuing mastery in **reverse engineering** and **OSINT**.  
 
 ---
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3459305" style='border:none;'></iframe>
 
 ### 🧰 Tools, Languages & Frameworks
 <p align="left">
@@ -35,15 +36,15 @@
 
 ### 📊 GitHub Analytics
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varshanegi18&show_icons=true&theme=radical" />
-  <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=varshanegi18&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varshanegi18&show_icons=true&theme=highcontrast" />
+  <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=varshanegi18&theme=highcontrast" />
 </p>
-<p>
-  <img width="25%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshanegi18&layout=compact&theme=radical" />
+<!--<p>
+  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshanegi18&layout=compact&theme=highcontrast" />
 </p>
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varshanegi18&theme=react-dark)
-
+<!-- ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varshanegi18&theme=react-dark)
+-->
 ---
 
 **🧩 Key Domains:**
@@ -54,17 +55,22 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="mailto:varshanegi066@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/varsha-negi-06618c" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/varshanegi18" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<!--<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:varshanegi066@gmail.com"><img src="https://img.shields.io/badge/Email-CC0000?style=flat-square&logo=protonmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/varsha-negi-06618c"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/varshanegi18"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/yourusername"><img src="https://img.shields.io/badge/TryHackMe-2D2D2D?style=flat-square&logo=tryhackme&logoColor=white"></a>
+</p>
+-->
+<h2 align="center">🕸️ Connect With Me Securely</h2>
+
+<p align="center">
+  <a href="mailto:varshanegi066@gmail.com"><img src="https://img.shields.io/badge/Email-CC0000?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/varsha-negi-06618c"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/varshanegi18"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/Varshanegi"><img src="https://img.shields.io/badge/TryHackMe-2D2D2D?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
 </p>
 
----
+
