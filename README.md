@@ -1,6 +1,6 @@
 
 <h1 align="center">👾 Hey there, I'm Varsha Negi</h1>
-<h3 align="center">🛡️ Cybersecurity Researcher | Threat Hunter | Open-Source</h3>
+<h3 align="center">🛡️ Cybersecurity Researcher | Threat Hunter | Open-Source Intelligence</h3>
 
 ---
 
