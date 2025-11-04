@@ -11,8 +11,6 @@
 - 🧑‍🏫 Lifelong learner — pursuing mastery in **reverse engineering** and **OSINT**.  
 
 ---
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3459305" style='border:none;'></iframe>
-
 ### 🧰 Tools, Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
